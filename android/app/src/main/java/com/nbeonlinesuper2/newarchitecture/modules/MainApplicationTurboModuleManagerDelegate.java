@@ -1,4 +1,4 @@
-package com.nbeonlinesuper.newarchitecture.modules;
+package com.nbeonlinesuper2.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

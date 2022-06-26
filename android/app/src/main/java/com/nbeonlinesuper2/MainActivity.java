@@ -1,4 +1,4 @@
-package com.nbeonlinesuper;
+package com.nbeonlinesuper2;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
